@@ -6,7 +6,7 @@
 
 ---
 
-### 🔧 Skills (Learning)
+### 🔧 Skills 
 - Python | C/C++ | Java (basic)  
 - NumPy | Pandas | Matplotlib | TensorFlow
 - Git | GitHub | VS Code | Jupyter Notebook
