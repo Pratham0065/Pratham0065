@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Pratham (GitHub: Pratham0065)
+# 👋 Hi, I'm Pratham Singh (GitHub: Pratham0065)
 
 🤖 Beginner developer interested in **Artificial Intelligence & Machine Learning**  
 🌱 Currently learning **Python, Data Science, and Neural Networks**  
