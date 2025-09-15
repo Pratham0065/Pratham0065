@@ -44,7 +44,7 @@ Exploring AI & Building Intelligent Solutions
 </p>
 
 
-### Get in Touch
+
 <!-- Contact Section -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
