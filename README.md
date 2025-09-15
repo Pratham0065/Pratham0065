@@ -11,29 +11,44 @@
 - NumPy | Pandas | Matplotlib | TensorFlow
 - Git | GitHub | VS Code | Jupyter Notebook
 
-### Languages & Tools
+
+
+### Languages & AI Tools
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"     alt="HTML5"      width="40" height="40" title="HTML5" />
+  <!-- C -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" 
+       alt="C" width="40" height="40" title="C" />
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"       alt="CSS3"       width="40" height="40" title="CSS3" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" title="JavaScript" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" title="TypeScript" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"     alt="React"      width="40" height="40" title="React" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"   alt="Node.js"    width="40" height="40" title="Node.js" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"   alt="Python"     width="40" height="40" title="Python" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"         alt="Git"        width="40" height="40" title="Git" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"   alt="Docker"     width="40" height="40" title="Docker" />
-</p>  
 
+  <!-- C++ -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" 
+       alt="C++" width="40" height="40" title="C++" />
+  &nbsp;
 
+  <!-- Java -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" 
+       alt="Java" width="40" height="40" title="Java" />
+  &nbsp;
 
+  <!-- Python -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
+       alt="Python" width="40" height="40" title="Python" />
+  &nbsp;
+
+  <!-- MySQL -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" 
+       alt="MySQL" width="40" height="40" title="MySQL" />
+  &nbsp;
+
+  <!-- TensorFlow (AI/ML) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" 
+       alt="TensorFlow" width="40" height="40" title="TensorFlow (AI/ML)" />
+  &nbsp;
+
+  <!-- PyTorch (AI/ML) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" 
+       alt="PyTorch" width="40" height="40" title="PyTorch (AI/ML)" />
+</p>
 ### Get in Touch
 📧Email- Prathamsingh0065@gmail.com
