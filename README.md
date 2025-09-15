@@ -1,4 +1,5 @@
 # 👋 Hi, I'm Pratham Singh (Software | Hardware)
+Exploring AI & Building Intelligent Solutions
 
 🤖 Beginner developer interested in **Artificial Intelligence & Machine Learning**  
 🌱 Currently learning **Python, Data Science, and Neural Networks**  
@@ -44,4 +45,21 @@
 
 
 ### Get in Touch
-📧Email- Prathamsingh0065@gmail.com
+<!-- Contact Section -->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+
+  <!-- Email -->
+  <a href="mailto:Prathamsingh0065@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" 
+         alt="Email" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/pratham0065/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
+         alt="LinkedIn" width="40" height="40"/>
+  </a>
+
+</p>
